@@ -1,0 +1,6 @@
+{
+  "worldPath": "./world",
+  "outputPath": "./output/output_table.txt",
+  "tableTitle": "Player Playtimes",
+  "statName": "minecraft:play_time"
+}

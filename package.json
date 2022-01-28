@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ascii-table3": "^0.7.0",
+    "fs-extra": "^10.0.0",
+    "pretty-ms": "^7.0.1",
+    "prismarine-nbt": "^2.1.0"
+  }
+}
